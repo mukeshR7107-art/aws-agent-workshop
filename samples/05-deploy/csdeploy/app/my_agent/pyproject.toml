@@ -1,0 +1,9 @@
+[project]
+name = "customer-service-agent"
+version = "0.1.0"
+description = "Strands Agents customer service application"
+requires-python = ">=3.10"
+dependencies = [
+    "strands-agents",
+    "bedrock-agentcore",
+]
